@@ -1,0 +1,3 @@
+# git ignore file
+/TestJenk/TestJenk_UnitTests/obj
+/TestJenk/TestJenk_UnitTests/bin
