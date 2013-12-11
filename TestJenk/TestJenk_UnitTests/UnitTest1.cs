@@ -11,7 +11,7 @@ namespace TestJenk_UnitTests
         {
 
             int x = 2 + 2;
-            Assert.AreEqual(5, x);
+            Assert.AreEqual(4, x);
 
         }
     }

@@ -9,7 +9,7 @@ namespace TestJenk_UnitTests
         [TestMethod]
         public void TestMethod2()
         {
-            Assert.Fail();
+            //Assert.Fail();
         }
     }
 }
