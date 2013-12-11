@@ -2,3 +2,4 @@ C:\Users\davidb\Documents\GitHub\Sample-MVC-and-WebAPI\TestJenk\TestJenk_UnitTes
 C:\Users\davidb\Documents\GitHub\Sample-MVC-and-WebAPI\TestJenk\TestJenk_UnitTests\bin\Debug\TestJenk_UnitTests.pdb
 C:\Users\davidb\Documents\GitHub\Sample-MVC-and-WebAPI\TestJenk\TestJenk_UnitTests\obj\Debug\TestJenk_UnitTests.dll
 C:\Users\davidb\Documents\GitHub\Sample-MVC-and-WebAPI\TestJenk\TestJenk_UnitTests\obj\Debug\TestJenk_UnitTests.pdb
+C:\Users\davidb\Documents\GitHub\Sample-MVC-and-WebAPI\TestJenk\TestJenk_UnitTests\obj\Debug\TestJenk_UnitTests.csprojResolveAssemblyReference.cache
