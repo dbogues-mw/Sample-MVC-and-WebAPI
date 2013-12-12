@@ -5,6 +5,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestJenk", "TestJenk\TestJe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestJenk_UnitTests", "TestJenk_UnitTests\TestJenk_UnitTests.csproj", "{70279E0D-3424-4985-ABEA-989710BE3C35}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestLIbrary", "TestLIbrary\TestLIbrary.csproj", "{BFDFC0C7-C98F-4229-BFFF-CD5ABF9A7449}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Web", "Web", "{5F003F70-8BD2-4C69-9467-DC386340CA03}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Business", "Business", "{C235B0F7-50D9-4550-9473-5CF0F2B78125}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,8 +30,18 @@ Global
 		{70279E0D-3424-4985-ABEA-989710BE3C35}.Deploy-Dev|Any CPU.Build.0 = Deploy-Dev|Any CPU
 		{70279E0D-3424-4985-ABEA-989710BE3C35}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{70279E0D-3424-4985-ABEA-989710BE3C35}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFDFC0C7-C98F-4229-BFFF-CD5ABF9A7449}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFDFC0C7-C98F-4229-BFFF-CD5ABF9A7449}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFDFC0C7-C98F-4229-BFFF-CD5ABF9A7449}.Deploy-Dev|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFDFC0C7-C98F-4229-BFFF-CD5ABF9A7449}.Deploy-Dev|Any CPU.Build.0 = Debug|Any CPU
+		{BFDFC0C7-C98F-4229-BFFF-CD5ABF9A7449}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFDFC0C7-C98F-4229-BFFF-CD5ABF9A7449}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{BF0EFDAB-1002-4C03-BBCE-1F6ADE70A268} = {5F003F70-8BD2-4C69-9467-DC386340CA03}
+		{BFDFC0C7-C98F-4229-BFFF-CD5ABF9A7449} = {C235B0F7-50D9-4550-9473-5CF0F2B78125}
 	EndGlobalSection
 EndGlobal
