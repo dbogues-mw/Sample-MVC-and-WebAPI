@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Test\TestPublish</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>12/11/2013 15:19:42</publishTime>
+    </File>
+    <File Include="bin/System.Web.Helpers.dll">
+      <publishTime>12/11/2013 15:19:42</publishTime>
+    </File>
+    <File Include="bin/System.Web.Mvc.dll">
+      <publishTime>12/11/2013 15:19:42</publishTime>
+    </File>
+    <File Include="bin/System.Web.Razor.dll">
+      <publishTime>12/11/2013 15:19:42</publishTime>
+    </File>
+    <File Include="bin/System.Web.Webpages.Deployment.dll">
+      <publishTime>12/11/2013 15:19:42</publishTime>
+    </File>
+    <File Include="bin/System.Web.Webpages.dll">
+      <publishTime>12/11/2013 15:19:42</publishTime>
+    </File>
+    <File Include="bin/System.Web.Webpages.Razor.dll">
+      <publishTime>12/11/2013 15:19:42</publishTime>
+    </File>
+    <File Include="bin/TestJenk.dll">
+      <publishTime>12/12/2013 10:52:52</publishTime>
+    </File>
+    <File Include="bin/TestJenk.pdb">
+      <publishTime>12/12/2013 10:52:52</publishTime>
+    </File>
+    <File Include="Content/bootstrap.css">
+      <publishTime>12/12/2013 10:43:18</publishTime>
+    </File>
+    <File Include="Content/bootstrap.min.css">
+      <publishTime>12/12/2013 10:43:18</publishTime>
+    </File>
+    <File Include="Content/Site.css">
+      <publishTime>12/12/2013 10:43:19</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.eot">
+      <publishTime>12/12/2013 10:43:18</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.svg">
+      <publishTime>12/12/2013 10:43:18</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>12/12/2013 10:43:18</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff">
+      <publishTime>12/12/2013 10:43:18</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>12/11/2013 15:19:42</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>12/12/2013 10:43:18</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.js">
+      <publishTime>12/12/2013 10:43:18</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.min.js">
+      <publishTime>12/12/2013 10:43:18</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.js">
+      <publishTime>12/12/2013 10:43:17</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.min.js">
+      <publishTime>12/12/2013 10:43:17</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.min.map">
+      <publishTime>12/12/2013 10:43:17</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.js">
+      <publishTime>12/12/2013 10:43:18</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.min.js">
+      <publishTime>12/12/2013 10:43:18</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.unobtrusive.js">
+      <publishTime>12/12/2013 10:43:18</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.unobtrusive.min.js">
+      <publishTime>12/12/2013 10:43:18</publishTime>
+    </File>
+    <File Include="Scripts/modernizr-2.6.2.js">
+      <publishTime>12/12/2013 10:43:18</publishTime>
+    </File>
+    <File Include="Views/Home/Index.cshtml">
+      <publishTime>12/12/2013 10:43:34</publishTime>
+    </File>
+    <File Include="Views/Shared/_Layout.cshtml">
+      <publishTime>12/12/2013 10:43:19</publishTime>
+    </File>
+    <File Include="Views/web.config">
+      <publishTime>12/11/2013 15:19:42</publishTime>
+    </File>
+    <File Include="Views/_ViewStart.cshtml">
+      <publishTime>12/12/2013 10:43:19</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>12/12/2013 10:57:51</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
